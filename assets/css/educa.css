@@ -48,7 +48,7 @@ p {
   color: #777777;
 }
 .site-header {
-  border-top: 5px solid #AAD3F1;
+  border-top: 5px solid #82b6ed;
   position: relative;
   width: 100%;
   top: 0;
@@ -166,7 +166,7 @@ p {
   border-left: none;
 }
 .site-header .header-info ul li:last-child a {
-  background-color: #AAD3F1;
+  background-color: #82b6ed;
   padding: 15px 20px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
@@ -586,7 +586,7 @@ nav.responsive-menu a {
   }
 }
 footer {
-  background-color: #AAD3F1;
+  background-color: #82b6ed;
   width: 100%;
   background-size: cover;
   padding: 90px 0px 0px 0px;
